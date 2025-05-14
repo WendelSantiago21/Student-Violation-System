@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS311B-DATABASE2024", "CS311B-DATABASE2024\CS311B-DATABASE2024.csproj", "{624858DF-8173-4A3A-BCCB-65C0E58671D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624858DF-8173-4A3A-BCCB-65C0E58671D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624858DF-8173-4A3A-BCCB-65C0E58671D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624858DF-8173-4A3A-BCCB-65C0E58671D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624858DF-8173-4A3A-BCCB-65C0E58671D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18011B82-A94C-49E0-BE62-113912899532}
+	EndGlobalSection
+EndGlobal

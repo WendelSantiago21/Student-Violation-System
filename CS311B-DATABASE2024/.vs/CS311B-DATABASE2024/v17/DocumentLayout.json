@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|c:\\users\\bernie\\source\\repos\\cs311b-database2024\\cs311b-database2024\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmeditviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmeditviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmeditviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmeditviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmviolations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmupdatestrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmupdatestrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmnewstrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmnewstrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\cs311b-database2024\\frmupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624858DF-8173-4A3A-BCCB-65C0E58671D8}|CS311B-DATABASE2024\\CS311B-DATABASE2024.csproj|solutionrelative:cs311b-database2024\\frmupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmViolations.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmViolations.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmViolations.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmViolations.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmViolations.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:02:57.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUpdateStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStudent.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmUpdateStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:13:37.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmUpdateStudent.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:14:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEditViolations.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmEditViolations.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmEditViolations.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmEditViolations.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmEditViolations.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:13:13.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEditViolations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmEditViolations.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmEditViolations.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmEditViolations.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmEditViolations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:13:10.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmStudents.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmStudents.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmStudents.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:44:02.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAccounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmAccounts.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmAccounts.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmAccounts.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmAccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:43:14.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmViolations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmViolations.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmViolations.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmViolations.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmViolations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:42:46.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmUpdateStrand.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStrand.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmUpdateStrand.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateStrand.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmUpdateStrand.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:18:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmUpdateCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateCourse.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmUpdateCourse.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmUpdateCourse.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmUpdateCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:19:03.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmMain.Designer.cs",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmMain.Designer.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAQwOsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:22:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmMain.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmMain.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:03:14.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNewStrand.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmNewStrand.cs",
+              "RelativeDocumentMoniker": "CS311B-DATABASE2024\\frmNewStrand.cs",
+              "ToolTip": "C:\\Users\\Bernie\\source\\repos\\CS311B-DATABASE2024\\CS311B-DATABASE2024\\frmNewStrand.cs [Design]",
+              "RelativeToolTip": "CS311B-DATABASE2024\\frmNewStrand.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:57:43.916Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
